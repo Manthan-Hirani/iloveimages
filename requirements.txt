@@ -1,0 +1,7 @@
+streamlit
+rembg
+Pillow
+watchdog
+onnxruntime
+google-genai
+python-dotenv
